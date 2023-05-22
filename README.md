@@ -5,7 +5,6 @@ Brasil
 - Cursando 1º semestre Analise e desenvolvimento de sistema (UCDB)
 - Cursando Fabrica de Software (Senac)
 - Foco em Front-end 
-- Estudando Python 
 - E-mail: brnight05@gmail.com
 
 <div style="display: inline_block"><br>

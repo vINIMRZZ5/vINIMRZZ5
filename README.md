@@ -2,7 +2,7 @@ Brasil
 
 -Vinicius Martins Carvalho
 
-- 2º semestre Analise e desenvolvimento de sistema (UCDB)
+- 3º semestre Analise e desenvolvimento de sistema (UCDB)
 - Fabrica de Software (Senac)
 - Front-end 
 - E-mail: brnight05@gmail.com
